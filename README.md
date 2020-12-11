@@ -27,6 +27,9 @@
 
 Київ 2020 р.
 
+
+
+
 Лістинг програми:
 
 0001-fix-truncation-error.patch
